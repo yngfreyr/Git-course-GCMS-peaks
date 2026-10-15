@@ -1,2 +1,2 @@
 # Git-course-GCMS-peaks
-Analyses of simulated GCMS data for the Git course mini-project
+Analyses of simulated Gas chromatography–mass spectrometry (GCMS) data for the Git course mini-project
